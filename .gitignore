@@ -1,0 +1,10 @@
+*.local
+*.res
+*.identcache
+*.dsk
+*.tvsconfig
+*.stat
+*.exe
+*.dcu
+*.rsm
+__recovery
